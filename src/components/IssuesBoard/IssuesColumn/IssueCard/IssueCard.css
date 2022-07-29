@@ -1,0 +1,13 @@
+.issue-card:not(:last-child) {
+  margin-bottom: 0.5rem;
+}
+
+.muted-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.muted-link:hover {
+  color: inherit;
+  text-decoration: underline;
+}
